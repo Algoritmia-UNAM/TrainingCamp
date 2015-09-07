@@ -10,4 +10,4 @@ Here are the codes for the assignments of the training sessions organized by sub
   - [Calories From Fat](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Introduction/kattis_calories.cpp)
   - [Booking](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Introduction/kattis_calories.cpp)
 2. **Data structures and libraries**
-  - [Hay Points](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/cd_kattis.cpp)
+  - [CD](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/cd_kattis.cpp)
