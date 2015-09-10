@@ -11,7 +11,7 @@ Here are the codes for the assignments of the training sessions organized by sub
   - [Booking](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Introduction/kattis_calories.cpp)
 2. **Data structures and libraries**
   - [Hay Points](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_haypoints.cpp)
-  - [CD](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/cd_kattis.cpp)
+  - [CD](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_cd.cpp)
   - [I Can Guess the Data Structure](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_guessthedatastructure.cpp)
   - [Phone List](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_phonelist.cpp)
   - [Cookie Selection](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_cookieselection.cpp)
