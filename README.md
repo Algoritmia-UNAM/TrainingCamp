@@ -17,3 +17,7 @@ Here are the codes for the assignments of the training sessions organized by sub
   - [Cookie Selection](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_cookieselection.cpp)
   - [Trending Topic](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_trendingtopic.cpp)
   - [Turbo](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures-and-libraries/kattis_turbo.cpp)
+3. **Data structures**
+  - [Virtual Friends](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures/kattis_virtualfriends.cpp)
+  - [Kastenlauf](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures/kattis_kastenlauf.cpp)
+  - 
