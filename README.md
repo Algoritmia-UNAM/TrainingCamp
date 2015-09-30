@@ -20,4 +20,3 @@ Here are the codes for the assignments of the training sessions organized by sub
 3. **Data structures**
   - [Virtual Friends](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures/kattis_virtualfriends.cpp)
   - [Kastenlauf](https://github.com/Algoritmia-UNAM/TrainingCamp/blob/master/Data-structures/kattis_kastenlauf.cpp)
-  - 
